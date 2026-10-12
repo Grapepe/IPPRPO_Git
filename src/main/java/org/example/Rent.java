@@ -32,15 +32,18 @@ public class Rent implements Serializable { // Добавлен Serializable
         this.status = RentStatus.RENTED;
     }
 
-    public double calculateTotalCost()
-    {
+    public double calculateTotalCost() {
         long days = ChronoUnit.DAYS.between(startDate, endDate);
         if (days <= 0) days = 1;
 
         double carCost = car.calculatePrice((int) days);
         double insuranceCost = (insurance != null) ? insurance.calculateCost((int) days) : 0;
+        double total = carCost + insuranceCost;
 
-        return carCost + insuranceCost;
+        if (days >= 7) {
+            total *= 0.9;
+        }
+        return total;
     }
 
 
