@@ -16,9 +16,9 @@ public class Main
     {
         while (true)
         {
+            System.out.println("Hello, world");
             System.out.println("\nСИСТЕМА ПРОКАТА АВТОМОБИЛЕЙ\n1. Войти\n2. Зарегистрироваться\n3. Выйти");
             int choice = readInt("Выберите действие: ");
-
             switch (choice)
             {
                 case 1: login(); break;
