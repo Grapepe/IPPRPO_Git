@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Car implements Serializable {
     private static final long serialVersionUID = 1L;
+    private static final double MIN_PRICE = 5.0;
 
     private String vinCode;
     private String mark;
