@@ -1,0 +1,164 @@
+сент. 22, 2026 7:10:37 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 22, 2026 7:10:37 PM org.example.RentalService loadData
+INFO: Файл данных не найден. Создана новая система.
+сент. 22, 2026 7:10:37 PM org.example.RentalService createOffice
+INFO: Создан новый пункт проката: Центральный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Toyota в офис Центральный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Renault в офис Центральный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль BMW в офис Центральный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Kia в офис Центральный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Mercedes в офис Центральный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService createOffice
+INFO: Создан новый пункт проката: Аэропорт
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Hyundai в офис Аэропорт
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Audi в офис Аэропорт
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Skoda в офис Аэропорт
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService createOffice
+INFO: Создан новый пункт проката: Западный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Volkswagen в офис Западный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Volvo в офис Западный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:37 PM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль Lada в офис Западный
+сент. 22, 2026 7:10:37 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:10:47 PM org.example.RentalService authenticate
+WARNING: Неудачная попытка входа: Иванов
+сент. 22, 2026 7:10:54 PM org.example.RentalService authenticate
+WARNING: Неудачная попытка входа: Иванов
+сент. 22, 2026 7:11:20 PM org.example.RentalService registerClient
+INFO: Зарегистрирован новый клиент: Иванов
+сент. 22, 2026 7:11:20 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:11:25 PM org.example.RentalService authenticate
+INFO: Пользователь Иванов вошел в систему.
+сент. 22, 2026 7:14:07 PM org.example.RentalService registerManager
+INFO: Зарегистрирован менеджер: Осипенко (офис: Центральный)
+сент. 22, 2026 7:14:07 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 7:14:16 PM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
+сент. 22, 2026 7:15:33 PM org.example.RentalService authenticate
+INFO: Пользователь Иванов вошел в систему.
+сент. 22, 2026 11:16:20 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 22, 2026 11:16:20 PM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 22, 2026 11:16:29 PM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
+сент. 22, 2026 11:16:47 PM org.example.RentalService authenticate
+INFO: Пользователь Иванов вошел в систему.
+сент. 22, 2026 11:17:25 PM org.example.RentalService processRental
+INFO: Оформлена аренда: 436ca977-b0dd-4ab9-89f5-de51bebfb7b6 для Иванов
+сент. 22, 2026 11:17:25 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 22, 2026 11:17:48 PM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
+сент. 22, 2026 11:49:10 PM org.example.RentalService returnCar
+INFO: Автомобиль возвращен. Аренда VIN005 завершена.
+сент. 22, 2026 11:49:10 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 23, 2026 12:04:31 AM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 23, 2026 12:04:32 AM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 23, 2026 12:04:41 AM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
+сент. 23, 2026 12:05:37 AM org.example.RentalService addCarToOffice
+INFO: Добавлен автомобиль BMW (VIN099) в офис Центральный
+сент. 23, 2026 12:05:37 AM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 23, 2026 12:06:14 AM org.example.RentalService updateCar
+INFO: Обновлена машина VIN099 в офисе Центральный
+сент. 23, 2026 12:06:14 AM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 23, 2026 12:08:06 AM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 23, 2026 12:08:06 AM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 25, 2026 2:25:17 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 25, 2026 2:25:17 PM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 25, 2026 2:26:53 PM org.example.RentalService authenticate
+INFO: Пользователь Иванов вошел в систему.
+сент. 25, 2026 2:30:28 PM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
+сент. 25, 2026 4:59:05 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 25, 2026 4:59:05 PM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 25, 2026 4:59:16 PM org.example.RentalService authenticate
+WARNING: Неудачная попытка входа: Иванов
+сент. 25, 2026 4:59:22 PM org.example.RentalService authenticate
+INFO: Пользователь Иванов вошел в систему.
+сент. 25, 2026 4:59:52 PM org.example.RentalService processRental
+INFO: Оформлена аренда: e3d9f154-055a-4024-b752-853f8c981dbe для Иванов
+сент. 25, 2026 4:59:52 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 25, 2026 5:06:27 PM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
+сент. 25, 2026 5:07:00 PM org.example.RentalService returnCar
+INFO: Автомобиль возвращен. Аренда VIN005 завершена.
+сент. 25, 2026 5:07:00 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 25, 2026 5:08:42 PM org.example.RentalService removeCarFromOffice
+INFO: Удалён автомобиль VIN005 из офиса Центральный
+сент. 25, 2026 5:08:42 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 25, 2026 5:18:02 PM org.example.RentalService updateCar
+INFO: Обновлена машина VIN004 в офисе Центральный
+сент. 25, 2026 5:18:02 PM org.example.RentalService saveData
+INFO: Данные успешно сохранены в файл.
+сент. 29, 2026 1:48:19 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 29, 2026 1:48:19 PM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 29, 2026 1:48:28 PM org.example.RentalService authenticate
+INFO: Пользователь Иванов вошел в систему.
+сент. 29, 2026 1:52:15 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 29, 2026 1:52:15 PM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 29, 2026 4:46:56 PM org.example.RentalService setupLogger
+INFO: Система проката запущена. Логирование инициализировано.
+сент. 29, 2026 4:46:56 PM org.example.RentalService loadData
+INFO: Данные успешно загружены из файла.
+сент. 29, 2026 4:47:13 PM org.example.RentalService authenticate
+INFO: Пользователь Осипенко вошел в систему.
